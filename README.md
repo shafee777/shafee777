@@ -76,24 +76,20 @@
 <br />
 
 <!-- =====================================================================
-     GAMIFIED CONTRIBUTION HEATMAP (ABOVE TECH STACK)
+     3D GITBLOCK CONTRIBUTION HEATMAP (YOSHI LEGO BLOCK VERSION)
      ===================================================================== -->
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">🎮 LIVE CONTRIBUTION CHASE HEATMAP</th>
-      <th align="right"><img src="https://img.shields.io/badge/STATUS-ACTIVE_GRID-0EA5E9?style=flat-square&labelColor=0D1117" /></th>
+      <th align="left">🧱 3D GITBLOCK CONTRIBUTION HEATMAP</th>
+      <th align="right"><img src="https://img.shields.io/badge/3D_ENGINE-GITBLOCK_ACTIVE-0EA5E9?style=flat-square&labelColor=0D1117" /></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="2" align="center">
         <br />
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shafee777/Shafee777/output/pacman-contribution-graph-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shafee777/Shafee777/output/pacman-contribution-graph.svg" />
-          <img alt="Pac-Man Chase Contribution Heatmap" src="https://raw.githubusercontent.com/Shafee777/Shafee777/output/pacman-contribution-graph-dark.svg" width="100%" />
-        </picture>
+        <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D GitBlock Contribution Heatmap" />
         <br />
       </td>
     </tr>
