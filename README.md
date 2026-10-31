@@ -1,59 +1,59 @@
 <!-- =====================================================================
-     HERO BANNER & EXECUTIVE PROFILE CARD
+     HERO BANNER & STEALTH DARK/BLUE NAVIGATION BAR (NO PROFILE IMAGE)
      ===================================================================== -->
 <div align="center">
-  <!-- Dynamic Animated Header Banner -->
+  <!-- Dynamic Animated Header Banner (Original Cyan/Blue Gradient) -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090D16,50:111827,100:0EA5E9&height=210&section=header&text=Mohamed%20Shafee%20M.&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40&desc=Build%20what%20works.%20Question%20what%20doesn't.%20Make%20it%20better.&descSize=18&descAlignY=66" width="100%" alt="Hero Banner" />
 
-  <!-- Hero Console Card -->
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <br />
-        <img src="./assets/profile-photo.png" width="140" alt="Mohamed Shafee M" />
-        <br /><br />
-        
-        <!-- Role & Domain Pills -->
-        <p>
-          <img src="https://img.shields.io/badge/ROLE-Full--Stack_Software_Engineer-0EA5E9?style=flat-square&labelColor=0D1117" alt="Role" />&nbsp;
-          <img src="https://img.shields.io/badge/EDUCATION-Computer_Science_Student-10B981?style=flat-square&labelColor=0D1117" alt="Education" />&nbsp;
-          <img src="https://img.shields.io/badge/FOCUS-Systems_%26_AI_Engineering-8B5CF6?style=flat-square&labelColor=0D1117" alt="Focus" />
-        </p>
+  <br />
 
-        <!-- Animated Typing Hook -->
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Questioning+opens+the+door.+Curiosity+drives+the+journey.;Embracing+mistakes+along+the+way+turns+ideas+into+meaningful+solutions.;Shipping+Scalable+Web+Apps%2C+Reliable+Backends+%26+Practical+Products." alt="Typing Philosophy" />
-        </a>
+  <!-- Row 1: Live Profile Views, Followers & Repositories Counter (Electric Blue Theme) -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Shafee777&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views" />&nbsp;&nbsp;
+    <a href="https://github.com/Shafee777?tab=followers">
+      <img src="https://img.shields.io/github/followers/Shafee777?label=FOLLOWERS&color=0EA5E9&labelColor=0D1117&style=for-the-badge" alt="Followers" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/Shafee777?tab=repositories">
+      <img src="https://img.shields.io/badge/REPOSITORIES-0EA5E9?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="Repositories" />
+    </a>
+  </p>
 
-        <br />
+  <!-- Animated Typing Hook -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer+%C2%B7+Computer+Science+Student;Questioning+opens+the+door.+Curiosity+drives+the+journey.;Embracing+mistakes+turns+ideas+into+meaningful+solutions." alt="Typing Philosophy" />
+  </a>
 
-        <!-- Sleek Modern Action Buttons -->
-        <p>
-          <a href="https://linkedin.com/in/mohamed-shafee-m">
-            <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>&nbsp;&nbsp;
-          <a href="mailto:shafeemohamed810@gmail.com">
-            <img src="https://img.shields.io/badge/shafeemohamed810@gmail.com-161B22?style=for-the-badge&logo=minutemailer&logoColor=38BDF8" alt="Email" />
-          </a>&nbsp;&nbsp;
-          <a href="https://github.com/Shafee777">
-            <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <br /><br />
+
+  <!-- Row 2: Stealth Dark Social Bar with Cyan/Blue Icons -->
+  <p>
+    <a href="https://github.com/Shafee777">
+      <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="GitHub" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mohamed-shafee-m-60b942290/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0D1117" alt="LinkedIn" />
+    </a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/Shafee_77/">
+      <img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8&labelColor=0D1117" alt="LeetCode" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/shafee_.7/">
+      <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=38BDF8&labelColor=0D1117" alt="Instagram" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:shafeemohamed810@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0D1117" alt="Email" />
+    </a>
+  </p>
 </div>
 
 <br />
 
 <!-- =====================================================================
-     ABOUT ME (SPLIT BENTO COMPONENT)
+     ABOUT ME (FULL-WIDTH BENTO COMPONENT)
      ===================================================================== -->
 <table width="100%">
   <thead>
     <tr>
-      <th width="68%" align="left">⚡ ABOUT ME</th>
-      <th width="32%" align="left">🎯 ENGINEERING DNA</th>
+      <th align="left">⚡ ABOUT ME</th>
     </tr>
   </thead>
   <tbody>
@@ -69,14 +69,6 @@
           I approach engineering through problem-solving, experimentation, and continuous improvement.
         </p>
       </td>
-      <td valign="middle">
-        <img src="https://img.shields.io/badge/01-The_Engineer-0EA5E9?style=flat-square&labelColor=161B22" /><br />
-        <sub>System internals & reliable architecture</sub><br /><br />
-        <img src="https://img.shields.io/badge/02-The_Builder-10B981?style=flat-square&labelColor=161B22" /><br />
-        <sub>Real-world problems → live products</sub><br /><br />
-        <img src="https://img.shields.io/badge/03-The_Solver-8B5CF6?style=flat-square&labelColor=161B22" /><br />
-        <sub>Logical rigor & continuous iteration</sub>
-      </td>
     </tr>
   </tbody>
 </table>
@@ -84,13 +76,13 @@
 <br />
 
 <!-- =====================================================================
-     GAMIFIED CONTRIBUTION HEATMAP (MOVED ABOVE TECH STACK)
+     GAMIFIED CONTRIBUTION HEATMAP (ABOVE TECH STACK)
      ===================================================================== -->
 <table width="100%">
   <thead>
     <tr>
       <th align="left">🎮 LIVE CONTRIBUTION CHASE HEATMAP</th>
-      <th align="right"><img src="https://img.shields.io/badge/STATUS-ACTIVE_GRID-10B981?style=flat-square&labelColor=0D1117" /></th>
+      <th align="right"><img src="https://img.shields.io/badge/STATUS-ACTIVE_GRID-0EA5E9?style=flat-square&labelColor=0D1117" /></th>
     </tr>
   </thead>
   <tbody>
@@ -161,7 +153,7 @@
         <br /><br />
         <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933" />
         <img src="https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=insomnia&logoColor=10B981" />
+        <img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=insomnia&logoColor=38BDF8" />
         <img src="https://img.shields.io/badge/GraphQL-161B22?style=flat-square&logo=graphql&logoColor=E10098" />
         <br /><br />
       </td>
@@ -187,7 +179,7 @@
     <tr>
       <td colspan="2" align="center">
         <br />
-        <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />&nbsp;
+        <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8" />&nbsp;
         <img src="https://img.shields.io/badge/Object_Oriented_Programming-0D1117?style=for-the-badge&logo=buffer&logoColor=38BDF8" />&nbsp;
         <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=databricks&logoColor=10B981" />&nbsp;
         <img src="https://img.shields.io/badge/Operating_Systems-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />&nbsp;
